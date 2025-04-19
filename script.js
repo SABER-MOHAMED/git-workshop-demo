@@ -11,7 +11,7 @@ function getResponse() {
     const responses = [
         "I'm analyzing your request...",
         "That's an interesting question!",
-        "Based on my algorithms, I suggest...",
+        "Based on my algo, I suggest",
         "Have you considered alternative approaches?",
         "The answer might be simpler than you think.",
         "Let me process that information...",
